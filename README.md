@@ -5,7 +5,7 @@
 
 Graduated in Business Administration (2017 - Universidade de Mogi das Cruzes) and currently studying a postgraduate degree in Full-Stack Development.
 
-Meanwhile, I am enrolled in some bootcamps focused on developing practical projects, using: Typescript, Javscript, Java, Angular and React.
+Meanwhile, I am enrolled in some bootcamps focused on developing practical projects, using: Typescript, Javascript, Java, Angular and React.
 
 ### * Professional Experience
 
